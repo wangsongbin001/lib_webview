@@ -1,0 +1,7 @@
+ext{
+    compileSdkVersion = 29
+    minSdkVersion = 22
+    targetSdkVersion = 29
+    buildToolsVersion = "30.0.2"
+    googleAutoServiceDependency = 'com.google.auto.service:auto-service:1.0-rc7'
+}
